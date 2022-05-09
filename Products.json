@@ -1,0 +1,50 @@
+[
+ {
+    "name" : "Boyfriend Jeans",
+    "price" : 219.99,
+    "image" : "Boyriend Jeans.jpg",
+    "type" : "Jeans"
+  },
+  {
+    "name" : "accesories",
+    "price" : 29.99,
+    "image" : "accesories.jpg",
+    "type" : "chain"
+  },
+  {
+    "name" : "goggles",
+    "price" : 49.99,
+    "image" : "goggles.jpg",
+    "type" : "glasses"
+  },
+  {
+    "name" : "hangers",
+    "price" : 2.99,
+    "image" : "hanger.jpg",
+    "type" : "hanger"
+  },
+  {
+    "name" : "neck piece",
+    "price" : 89.99,
+    "image" : "neck piece.jpg",
+    "type" : "accesories"
+  },
+  {
+    "name" : "Sweater",
+    "price" : 49.99,
+    "image" : "Sweater.jpg",
+    "type" : "Jackets"
+  },
+  {
+    "name" : "Torn Jeans",
+    "price" : 55.99,
+    "image" : "Torn Jeans.jpg",
+    "type" : "Jeans"
+  },
+  {
+    "name" : "Wide leg",
+    "price" : 26.99,
+    "image" : "Wide leg.jpg",
+    "type" : "Jeans"
+  }
+]

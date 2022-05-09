@@ -1,0 +1,4 @@
+I want to create a website where a user can register & login to buy some clothes and accessories.
+It will be having white background with purple highlight and text in blue with various structural elements and also unordered and ordered list.
+Register page will have details like First Name, Last Name, Username, Email id, Date of Birth, password creation.
+In Login page, user will be asked to login through either username or email with password registered while creating account.

@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>Hari's World</title>
+    <link href="Styles\Style.css" rel="stylesheet" type="text/css" />
+  </head>
+  <body>
+    <form action="/action_page.php">
+  	<div class="container">
+    		<h1>Register</h1>
+    		<p>Please fill in this form to create an account.</p>
+
+    		<hr>
+    
+    			<label for="First name">First Name</label>
+    			<input type="text" placeholder="Enter First name" name="fname"  required>
+    			
+    			<label for="Last name">Last Name</label>
+    			<input type="text" placeholder="Enter Last name" name="fname" required>
+    			
+    			<label for="Username">User Name</label>
+    			<input type="text" placeholder="Enter Username" name="uname" required>
+			
+    			<label for="email">Email</label>
+    			<input type="text" placeholder="Enter Email" name="email" id="email" required>
+			
+    			<label for="psw">Password</label>
+    			<input type="password" placeholder="Enter Password" name="psw" id="psw" required>
+			
+    			<label for="psw-confirm">Confirm Password</label>
+    			<input type="password" placeholder="Confirm Password" name="psw-confirm" id="psw-confirm" required>
+          <label for="birthday">Date of Birth:</label>
+  <input type="date" name="birthday">
+    		<hr>
+    	<button type="submit" class="registerbtn">Register</button>
+   </div>
+  
+  <div class="container signin">
+    <p>Already have an account? <a href="index.html">Sign in</a>.</p>
+  </div>
+</form>
+    </body>
+</html>
